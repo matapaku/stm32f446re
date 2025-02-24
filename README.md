@@ -1,3 +1,3 @@
-# stm32f466xxマイコンのGPIOの関数を0から作りました
+# stm32f466xx driver development from scrach
 
 
